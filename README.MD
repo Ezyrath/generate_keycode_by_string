@@ -2,10 +2,12 @@
 
 Convert string to keycode for ydotool
 
+> ⚠ only alphanumeric conversion actually
+
 > use the `fr` keyboard layout
 
->reference of the keycode ->
->https://github.com/torvalds/linux/blob/master/include/uapi/linux/input-event-codes.h
+> reference of the keycode ->
+> https://github.com/torvalds/linux/blob/master/include/uapi/linux/input-event-codes.h
 
 ## How to use ?
 
